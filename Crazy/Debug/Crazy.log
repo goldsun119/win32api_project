@@ -1,0 +1,9 @@
+﻿  Bubble.cpp
+d:\project\wp_termproject\last\crazy\bubble.cpp(306): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\project\wp_termproject\last\crazy\bubble.cpp(318): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Character.cpp
+d:\project\wp_termproject\last\crazy\character.cpp(244): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\project\wp_termproject\last\crazy\character.cpp(415): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\project\wp_termproject\last\crazy\character.cpp(424): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  Crazy.vcxproj -> D:\project\WP_Termproject\last\Debug\Crazy.exe

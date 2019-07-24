@@ -1,0 +1,21 @@
+﻿  Background.cpp
+  Bubble.cpp
+c:\users\jes\desktop\윈플은선희구\crazy\bubble.cpp(306): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jes\desktop\윈플은선희구\crazy\bubble.cpp(318): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Character.cpp
+c:\users\jes\desktop\윈플은선희구\crazy\character.cpp(244): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jes\desktop\윈플은선희구\crazy\character.cpp(415): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jes\desktop\윈플은선희구\crazy\character.cpp(424): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Item.cpp
+  main.cpp
+c:\users\jes\desktop\윈플은선희구\crazy\main.cpp(399): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SceneChangeButton.cpp
+  Sound.cpp
+  StageChoiceButton.cpp
+  코드를 생성하고 있습니다.
+c:\users\jes\desktop\윈플은선희구\crazy\main.cpp(539): warning C4172: 지역 변수 또는 임시: idx의 주소를 반환하고 있습니다.
+  547 of 552 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    68 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Crazy.vcxproj -> C:\Users\JES\Desktop\윈플은선희구\Release\Crazy.exe

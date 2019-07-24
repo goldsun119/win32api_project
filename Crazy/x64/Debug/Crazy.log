@@ -1,0 +1,20 @@
+﻿  Background.cpp
+  Bubble.cpp
+  Character.cpp
+  Item.cpp
+  main.cpp
+c:\users\jes\desktop\crc0c8~1\crazy\main.cpp(564): warning C4267: '인수': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneChangeButton.cpp
+  Sound.cpp
+  StageChoiceButton.cpp
+  코드를 생성하고 있습니다...
+c:\users\jes\desktop\crc0c8~1\crazy\main.cpp(539): warning C4172: 지역 변수 또는 임시: idx의 주소를 반환하고 있습니다.
+Sound.obj : error LNK2019: FMOD_System_Create 외부 기호(참조 위치: "enum FMOD_RESULT __cdecl FMOD::System_Create(class FMOD::System * *)" (?System_Create@FMOD@@YA?AW4FMOD_RESULT@@PEAPEAVSystem@1@@Z) 함수)에서 확인하지 못했습니다.
+Sound.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::release(void)" (?release@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호(참조 위치: "public: __cdecl SoundPlay::~SoundPlay(void)" (??1SoundPlay@@QEAA@XZ) 함수)에서 확인하지 못했습니다.
+Sound.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::init(int,unsigned int,void *)" (?init@System@FMOD@@QEAA?AW4FMOD_RESULT@@HIPEAX@Z) 외부 기호(참조 위치: "public: void __cdecl SoundPlay::Set(char const *,int)" (?Set@SoundPlay@@QEAAXPEBDH@Z) 함수)에서 확인하지 못했습니다.
+Sound.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::close(void)" (?close@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호(참조 위치: "public: __cdecl SoundPlay::~SoundPlay(void)" (??1SoundPlay@@QEAA@XZ) 함수)에서 확인하지 못했습니다.
+Sound.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::createSound(char const *,unsigned int,struct FMOD_CREATESOUNDEXINFO *,class FMOD::Sound * *)" (?createSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEBDIPEAUFMOD_CREATESOUNDEXINFO@@PEAPEAVSound@2@@Z) 외부 기호(참조 위치: "public: void __cdecl SoundPlay::Set(char const *,int)" (?Set@SoundPlay@@QEAAXPEBDH@Z) 함수)에서 확인하지 못했습니다.
+Sound.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::playSound(enum FMOD_CHANNELINDEX,class FMOD::Sound *,bool,class FMOD::Channel * *)" (?playSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@W4FMOD_CHANNELINDEX@@PEAVSound@2@_NPEAPEAVChannel@2@@Z) 외부 기호(참조 위치: "public: void __cdecl SoundPlay::Play(void)" (?Play@SoundPlay@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+Sound.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::Channel::stop(void)" (?stop@Channel@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호(참조 위치: "public: void __cdecl SoundPlay::Stop(void)" (?Stop@SoundPlay@@QEAAXXZ) 함수)에서 확인하지 못했습니다.
+fmodex_vc.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\JES\Desktop\CRC0C8~1\x64\Debug\Crazy.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.
